@@ -19,7 +19,7 @@ public class  debe_bot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "5860612548:AAHSZGXxc0jSrrzemL-c2Prqzyt0hQR-EF4";
+        return "";
     }
 
     @Override
